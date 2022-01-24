@@ -5,7 +5,7 @@
 </ul><br>
 
 <ul><li><h2>Como instalo em meu server?</h2></li>
-  <li>Simples, apenas jogue na pasta resources, ou onde você deseja colocar, e startar na config da sua base. Caso não funcione entre em contato comigo pelo discord!</li>
+  <li>Simples, apenas jogue na pasta resources, ou onde você deseja colocar, e startar na config da sua base, e também adicione os itens recebidos na sua base. Para ver esses itens apenas leia a config.lua. Caso não funcione entre em contato comigo pelo discord!</li>
 </ul><br>
 <ul><li><h2>Tecnologias Usadas</h2></li>
     <li><img src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"></li>
