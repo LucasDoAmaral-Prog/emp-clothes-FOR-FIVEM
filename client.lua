@@ -244,7 +244,7 @@ function loadTruck(animation, dict, anim, prop, flag, hand)
             
         end
         
-        if quantity_Box == 1 and player_Distance <= 12.0 and not player_Carrying and open_Doors and protection_Door == true then
+        if quantity_Box == 10 and player_Distance <= 12.0 and not player_Carrying and open_Doors and protection_Door == true then
 
             open_Doors  = false;
             verify_Door = nil;
@@ -701,7 +701,7 @@ function reloadTruck(animation, dict, anim, prop, flag, hand)
 
         end
 
-        if quantity_Box == 1 and player_Distance <= 20 and not player_Carrying and open_Doors then
+        if quantity_Box == 10 and player_Distance <= 20 and not player_Carrying and open_Doors then
 
             open_Doors = false;
             reload_Truck = true;
