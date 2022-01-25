@@ -1042,8 +1042,6 @@ AddEventHandler('leftService',function()
 
             truck_ClosedDoors = true;
 
-            route_Generator = math.random(1,#location_Items.routes_Locations);
-
             RemoveBlip(blips);
             TriggerEvent('Notify','importante','Você saiu de serviço!');
 
