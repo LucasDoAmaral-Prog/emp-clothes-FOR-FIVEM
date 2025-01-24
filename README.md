@@ -1,18 +1,98 @@
-<h1>Emprego de Roupas</h1>
+# 📦 EMP Clothes - Sistema de Roupas para FiveM (vRPex Framework)
 
-<ul><li><h2>Qual a função desse projeto?</h2></li>
-<li>Fiz para aprender um pouco das nativas do gta, e programar na linguagem .LUA, já que estou há um tempo sem programar nela, que é uma linguagem que gosto muito e me divirto</li>
-</ul><br>
+## 🌟 Sobre o Projeto (About the Project)
 
-<ul><li><h2>Como instalo em meu server?</h2></li>
-  <li>Simples, apenas jogue na pasta resources, ou onde você deseja colocar, e startar na config da sua base, e também adicione os itens recebidos na sua base. Para ver esses itens apenas leia a config.lua. Caso não funcione entre em contato comigo pelo discord!</li>
-</ul><br>
-<ul><li><h2>Tecnologias Usadas</h2></li>
-    <li><img src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"></li>
-  <li><img src="https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"></li>
-  <li><img src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><br></li>
-    <li><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"><br></li>
-  
+**EMP Clothes** é um sistema customizado desenvolvido para servidores FiveM utilizando a framework **vRPex**. Ele permite a personalização completa de roupas, adicionando uma interface intuitiva e funcionalidades avançadas para enriquecer a experiência do jogador. 
+
+**EMP Clothes** is a custom system designed for FiveM servers using the **vRPex** framework. It allows full clothing customization, featuring an intuitive interface and advanced functionalities to enhance the player's experience. 
+
+---
+
+## 🚀 Funcionalidades (Features)
+
+- 🧥 **Customização de roupas**: Ajuste de estilos diretamente no jogo.
+- 🎨 **Interface amigável**: Design responsivo e intuitivo.
+- ⚙️ **Configurações flexíveis**: Modifique facilmente o arquivo `config.lua`.
+- 🔄 **Sincronização cliente-servidor**: Comunicação eficiente e sem atrasos.
+- 🔐 **Desempenho otimizado**: Funciona perfeitamente em servidores pesados.
+
+---
+
+## 📹 Demonstração (Demo)
+
+[🎥 Clique aqui para assistir ao vídeo de demonstração](https://www.youtube.com/watch?v=F9Y5wzYtz7A)
+
+---
+
+## 📂 Estrutura do Projeto (Project Structure)
+
+```plaintext
+emp-clothes-FOR-FIVEM-main/
+├── Interface/
+│   ├── index.html       # Interface principal
+│   ├── style.css        # Estilo da interface
+│   └── script.js        # Scripts de interação
+├── client.lua            # Código do cliente
+├── server.lua            # Código do servidor
+├── config.lua            # Configurações do sistema
+├── fxmanifest.lua        # Manifesto do recurso FiveM
+└── README.md             # Documentação
+```
+
+# 🛠️ Instalação (Installation)
+
+### 🇧🇷 Português<br>
+1. Clone ou baixe o repositório:
+Copiar
+```bash
+git clone https://github.com/seu-repositorio/emp-clothes.git
+```
+<br>
+2. Adicione à pasta de recursos do servidor: Copie o diretório emp-clothes-FOR-FIVEM-main para sua pasta de recursos do FiveM.<br>
+
+3. Edite o arquivo server.cfg: Adicione:
+```bash
+ensure emp-clothes-FOR-FIVEM-main
+```
+<br>
+4. Personalize o arquivo config.lua para suas necessidades.
+
+<br>
+
+### 🇺🇸 English
+<br>
+
+1. Clone or download the repository:
+```bash
+git clone https://github.com/your-repository/emp-clothes.git
+```
+<br>
+
+2. Add it to the server resources folder: Copy the emp-clothes-FOR-FIVEM-main directory to your FiveM resources folder.
+<br>
+
+3. Edit the server.cfg file: Add:
+```bash
+ensure emp-clothes-FOR-FIVEM-main
+```
+<br>
+
+4. Customize the config.lua file to suit your needs.
+<br>
+
+# 📋 Pré-requisitos (Prerequisites)<br>
+<ul>
+  <li>FiveM Server instalado e configurado.</li>
+  <li>vRPex Framework configurado no servidor.</li>
+  <li>MySQL (opcional, dependendo do uso no script).</li>
 </ul>
-  
+🤝 Contribuições (Contributions)
+Fique à vontade para contribuir, abrir issues ou enviar pull requests! Qualquer melhoria será bem-vinda. 🚀
+
+Feel free to contribute, open issues, or submit pull requests! Any improvement is welcome. 🚀
+
+📝 Licença (License)
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+
+Have fun customizing your server! 🤝
 
