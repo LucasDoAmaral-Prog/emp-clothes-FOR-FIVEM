@@ -10,11 +10,11 @@
 
 ## 🚀 Funcionalidades (Features)
 
-- 🧥 **Customização de roupas**: Ajuste de estilos diretamente no jogo.
-- 🎨 **Interface amigável**: Design responsivo e intuitivo.
-- ⚙️ **Configurações flexíveis**: Modifique facilmente o arquivo `config.lua`.
-- 🔄 **Sincronização cliente-servidor**: Comunicação eficiente e sem atrasos.
-- 🔐 **Desempenho otimizado**: Funciona perfeitamente em servidores pesados.
+- 🧥 **Customização de roupas**: Ajuste de estilos diretamente no jogo
+- 🎨 **Interface amigável**: Design responsivo e intuitivo
+- ⚙️ **Configurações flexíveis**: Modifique facilmente o arquivo `config.lua`
+- 🔄 **Sincronização cliente-servidor**: Comunicação eficiente e sem atrasos
+- 🔐 **Desempenho otimizado**: Funciona perfeitamente em servidores pesados
 
 ---
 
