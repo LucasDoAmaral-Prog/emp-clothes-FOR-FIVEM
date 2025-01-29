@@ -5,6 +5,7 @@
 **EMP Clothes** é um sistema customizado desenvolvido para servidores FiveM utilizando a framework **vRPex**. Ele permite a personalização completa de roupas, adicionando uma interface intuitiva e funcionalidades avançadas para enriquecer a experiência do jogador. 
 
 **EMP Clothes** is a custom system designed for FiveM servers using the **vRPex** framework. It allows full clothing customization, featuring an intuitive interface and advanced functionalities to enhance the player's experience. 
+
 ---
 
 ## 🚀 Funcionalidades (Features)
